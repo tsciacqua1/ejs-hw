@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+img {
+  height: 50px;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}

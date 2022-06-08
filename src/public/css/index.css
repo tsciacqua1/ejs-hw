@@ -2,6 +2,6 @@ a {
   text-decoration: none;
 }
 
-body {
-  background-color: red;
+a:hover {
+  color: blue;
 }
